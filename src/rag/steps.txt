@@ -1,0 +1,1 @@
+1. We have load the document in loadDocument.ts file using cheerio library and extract the text content from the HTML document(run using: npx tsx src/rag/loadDocument.ts )
