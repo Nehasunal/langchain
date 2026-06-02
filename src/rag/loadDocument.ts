@@ -19,5 +19,5 @@ export async function loadDocument(): Promise<Document[]> {
   }
 }
 
-const rawDocuments =  await loadDocument();
-console.log(rawDocuments);
+// const rawDocuments =  await loadDocument(); //comment when using splitDocuments.ts, otherwise it will load the document twice
+// console.log(rawDocuments);

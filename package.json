@@ -20,6 +20,8 @@
     "@langchain/google": "^0.1.11",
     "@langchain/google-genai": "^2.1.30",
     "@langchain/openai": "^1.4.3",
+    "@langchain/pinecone": "^1.0.3",
+    "@pinecone-database/pinecone": "^7.2.0",
     "@types/node": "^25.6.0",
     "cheerio": "^1.2.0",
     "cli-progress": "^3.12.0",
